@@ -11,7 +11,7 @@ This repository contains the Project 2 (Grocery App) which was assigned as a int
 [Project Demo]()
 
 
-<img src="assets/sma.png" /><img src="assets/Screenshot_2022-09-23-02-11-45-739_com.androiddevs.grocerylist.jpg" width="200"/><img src="assets/Screenshot_2022-09-23-02-12-13-786_com.androiddevs.grocerylist.jpg" width="200"/><img src="assets/Screenshot_2022-09-23-02-12-25-367_com.androiddevs.grocerylist.jpg" width="200"/>
+<img src="assert/sc1.jpg" width="200" /><img src="assert/sc2.jpg" width="200"/>
 
 
 ## Requirements
@@ -41,4 +41,4 @@ Open `gradle.build` in Android Studio and run the app on an emulator or directly
 
 ## Steps for read and write access (recommended)
 
-<b>Enjoy exploring the app and feel free to leave <a href="">feedback</a>.</b>
+<b>Enjoy exploring the app and feel free to leave <a href="https://github.com/smartinternz02/SPSGP-90335-Virtual-Internship---Android-Application-Development-Using-Kotlin/issues/new">feedback</a>.</b>
